@@ -1,0 +1,354 @@
+{
+  "lifePath": {
+    "1": [
+      "Le chemin de vie 1 vous appelle à prendre les commandes de votre existence et à ouvrir des voies que personne n'a encore tracées.",
+      "Vous avancez mieux lorsque vous choisissez vous-même votre direction, quitte à vous tromper parfois, car chaque erreur vous apprend à vous affirmer.",
+      "Votre indépendance peut parfois se transformer en solitude ; apprenez à demander de l'aide sans renoncer à votre autonomie.",
+      "Vers la maturité, ce chemin invite à mettre votre force d'initiative au service d'un projet qui dépasse vos seules ambitions."
+    ],
+    "2": [
+      "Le chemin de vie 2 place la coopération, l'écoute et la diplomatie au cœur de votre parcours, car vous réussissez mieux en binôme qu'en solitaire.",
+      "Votre sensibilité aux autres vous permet de percevoir les besoins non exprimés et de désamorcer les tensions avant qu'elles ne s'installent.",
+      "Le piège de ce chemin est de vous effacer pour préserver la paix ; votre opinion compte autant que celle de vos proches.",
+      "Avec le temps, ce chemin vous conduit à construire des alliances durables, fondées sur le respect mutuel et la patience."
+    ],
+    "3": [
+      "Le chemin de vie 3 est celui de l'expression : vous avez reçu le don de mettre des mots, des images ou des couleurs sur ce que les autres ressentent.",
+      "Votre joie de vivre et votre enthousiasme sont contagieux, et ils ouvrent naturellement des portes dans les cercles sociaux comme professionnels.",
+      "Ce chemin demande de canaliser votre énergie créative, car la dispersion et la multiplication des projets peuvent vite affaiblir votre impact.",
+      "En mûrissant, vous apprenez à transformer votre expression en contribution durable, en choisissant des messages qui ont du sens pour vous et pour votre entourage."
+    ],
+    "4": [
+      "Le chemin de vie 4 vous donne le sens de la structure : vous bâtissez patiemment, pierre après pierre, des fondations solides pour votre vie.",
+      "Votre fiabilité est l'une de vos grandes forces ; les autres savent qu'ils peuvent compter sur vous lorsque les engagements sont pris.",
+      "Le risque de ce chemin est la rigidité, lorsque la méthode devient une fin en soi et que le changement vous paraît menaçant.",
+      "Avec la maturité, ce nombre vous invite à conjuguer rigueur et souplesse, afin que vos constructions restent solides sans devenir étouffantes."
+    ],
+    "5": [
+      "Le chemin de vie 5 est celui de la liberté et du mouvement : vous êtes fait pour explorer, apprendre et vous adapter à des environnements variés.",
+      "Votre curiosité vous conduit vers des expériences nouvelles, des rencontres inattendues et des façons différentes de voir le monde.",
+      "Ce chemin demande de ne pas confondre liberté et fuite ; la véritable aventure consiste aussi à tenir un engagement sur la durée.",
+      "Vers la maturité, votre souplesse devient une sagesse : vous savez tirer le meilleur de chaque changement sans perdre votre cap intérieur."
+    ],
+    "6": [
+      "Le chemin de vie 6 vous pousse vers les autres : votre place naturelle est au centre d'un foyer, d'une équipe ou d'un projet qui a besoin de soin.",
+      "Vous ressentez souvent la responsabilité comme un devoir, parfois plus lourd que nécessaire ; apprendre à déléguer vous libère sans rien retirer à votre générosité.",
+      "Ce nombre favorise les relations stables et les engagements sincères, notamment en amour, où votre fidélité est un vrai langage.",
+      "Vers la maturité, ce chemin invite à passer du rôle de sauveur à celui de guide, pour aider sans s'épuiser ni s'oublier."
+    ],
+    "7": [
+      "Le chemin de vie 7 est une quête de sens : vous cherchez à comprendre ce qui se cache derrière les apparences, et vous avez besoin de silence pour y parvenir.",
+      "Votre esprit analytique et votre intuition vous permettent de repérer ce qui ne sonne pas juste, dans une situation comme chez une personne.",
+      "Le risque de ce chemin est l'isolement : à force de réfléchir seul, vous pouvez vous éloigner de ceux qui auraient pu enrichir votre réflexion.",
+      "En mûrissant, vous trouvez dans l'étude, la transmission et la méditation une façon de donner du sens à votre expérience, pour vous comme pour les autres."
+    ],
+    "8": [
+      "Le chemin de vie 8 est celui de la réalisation matérielle : vous avez le sens des responsabilités financières et la capacité de mener de grands projets à terme.",
+      "Votre autorité naturelle et votre sens stratégique vous permettent d'organiser des équipes et de négocier avec assurance.",
+      "Ce chemin comporte un risque : confondre réussite et valeur personnelle, ou laisser le travail et l'argent prendre toute la place dans votre vie.",
+      "Avec le temps, vous apprenez que la véritable puissance consiste à utiliser vos ressources pour créer de la justice et de l'utilité autour de vous."
+    ],
+    "9": [
+      "Le chemin de vie 9 est celui de l'humanisme : vous ressentez le besoin de contribuer à quelque chose de plus grand que votre seule réussite personnelle.",
+      "Votre compassion et votre largeur d'esprit vous rendent précieux auprès de personnes en difficulté, et votre regard d'ensemble vous aide à comprendre les situations complexes.",
+      "Ce chemin demande de savoir terminer les cycles : garder des liens ou des projets qui ne vous nourrissent plus peut vous épuiser.",
+      "En mûrissant, vous trouvez un équilibre entre don de soi et respect de vos propres besoins, afin que votre générosité reste durable."
+    ],
+    "11": [
+      "Le chemin de vie 11 est un nombre maître, associé à l'intuition et à l'inspiration : vous percevez souvent ce que les autres ne font que pressentir.",
+      "Votre sensibilité peut vous rendre vulnérable aux tensions et aux doutes ; apprendre à poser un cadre protecteur est essentiel pour canaliser cette énergie.",
+      "Votre rôle est d'éclairer les autres par votre exemple et vos idées, sans chercher à imposer votre vision ni à porter seul des attentes trop lourdes.",
+      "Vers la maturité, ce chemin vous invite à transformer votre intuition en actes concrets, afin que votre inspiration serve un projet tangible."
+    ],
+    "22": [
+      "Le chemin de vie 22 est le nombre du maître bâtisseur : il combine la vision de l'idéaliste et le sens pratique de celui qui réalise.",
+      "Vous avez la capacité de transformer une idée ambitieuse en une œuvre concrète et durable, qui profite à un grand nombre de personnes.",
+      "Ce chemin peut être écrasant, car l'ampleur de vos objectifs peut vous conduire à la pression, au perfectionnisme ou au surmenage.",
+      "Avec la maturité, vous apprenez à fractionner vos grands projets en étapes accessibles et à partager la responsabilité avec ceux qui vous entourent."
+    ],
+    "33": [
+      "Le chemin de vie 33 est le nombre du maître guérisseur : il place le dévouement, l'enseignement et l'amour inconditionnel au centre de votre mission.",
+      "Votre présence rassure et apaise ceux qui traversent une épreuve ; vous savez accompagner sans juger et soutenir sans imposer.",
+      "Le risque de ce chemin est le sacrifice excessif : donner sans limite peut conduire à l'épuisement, et il est important de vous accorder vous aussi du soin.",
+      "En mûrissant, vous comprenez que la véritable guérison passe aussi par le respect de vos propres limites, afin que votre générosité reste juste et durable."
+    ]
+  },
+  "expression": {
+    "1": [
+      "Votre nombre d'expression 1 fait de vous quelqu'un de direct, qui dit ce qu'il pense et assume ses choix devant les autres.",
+      "Vous avez une présence qui s'impose naturellement : on vous remarque dans une réunion comme dans une conversation informelle.",
+      "Ce nombre demande de ne pas confondre affirmation et domination ; votre force gagne en impact lorsque vous laissez aussi la place à l'avis d'autrui.",
+      "Dans votre parole comme dans vos actes, vous gagnez à privilégier des décisions claires et rapides, qui donnent de la direction à votre entourage."
+    ],
+    "2": [
+      "Votre nombre d'expression 2 se manifeste par la douceur, la délicatesse et une grande capacité à mettre les autres en confiance.",
+      "Vous excellez dans l'art de la nuance et du dialogue ; vous savez rapprocher des points de vue opposés sans brusquer personne.",
+      "Ce nombre peut vous conduire à taire vos propres idées pour éviter le conflit, ce qui affaiblit parfois la force de vos propositions.",
+      "En affirmant davantage vos convictions, vous renforcez votre crédibilité tout en conservant la finesse qui fait votre qualité."
+    ],
+    "3": [
+      "Votre nombre d'expression 3 vous donne un talent naturel pour la parole, l'écriture et toutes les formes de création.",
+      "Vous savez raconter une histoire, faire rire ou émouvoir, et vos idées trouvent facilement leur public.",
+      "Ce nombre demande de canaliser votre verbe, car les idées lancées en grand nombre peuvent se disperser sans jamais aboutir.",
+      "Lorsque vous choisissez vos projets avec soin, votre expression devient un véritable outil d'influence et de transmission."
+    ],
+    "4": [
+      "Votre nombre d'expression 4 se traduit par un sens de l'organisation, de la méthode et du travail bien fait.",
+      "Vous transformez les idées en réalisations concrètes, et vos proches apprécient votre fiabilité dans l'exécution.",
+      "Ce nombre peut vous rendre trop attaché aux procédures, au point de freiner l'élan créatif ou l'improvisation utile.",
+      "Vous gagnez à associer votre méthode à une part d'intuition, ce qui rendra vos réalisations plus vivantes sans en diminuer la solidité."
+    ],
+    "5": [
+      "Votre nombre d'expression 5 vous rend communicatif, adaptable et à l'aise dans des contextes très différents.",
+      "Vous savez vous ajuster rapidement aux personnes et aux situations, ce qui fait de vous un interlocuteur agréable et stimulant.",
+      "Ce nombre demande de ne pas papillonner : la diversité de vos centres d'intérêt peut vous empêcher de choisir une voie et de la poursuivre.",
+      "En gardant un cap clair, vous transformez votre curiosité en compétence reconnue, dans laquelle votre polyvalence devient un atout."
+    ],
+    "6": [
+      "Votre nombre d'expression 6 s'exprime à travers le sens du soin, de l'harmonie et de la responsabilité envers les autres.",
+      "Vous avez un goût naturel pour le beau et le bien fait, et vous savez créer une atmosphère chaleureuse autour de vous.",
+      "Ce nombre peut vous amener à vous charger des problèmes de chacun, au détriment de vos propres besoins et de votre énergie.",
+      "Lorsque vous partagez vos talents sans vous sacrifier, votre contribution devient une source de stabilité pour ceux qui vous entourent."
+    ],
+    "7": [
+      "Votre nombre d'expression 7 se caractérise par la finesse d'analyse, la profondeur de réflexion et un besoin de vérité.",
+      "Vous observez les détails que d'autres négligent, et vos avis sont souvent précieux pour comprendre une situation complexe.",
+      "Ce nombre peut vous rendre distant ou critique, notamment lorsque vous attendez des autres le même niveau d'exigence que le vôtre.",
+      "En exprimant vos réflexions avec bienveillance, vous offrez une lecture éclairante du monde à ceux qui cherchent du sens."
+    ],
+    "8": [
+      "Votre nombre d'expression 8 se manifeste par le sens des affaires, de l'organisation et de la conduite de projets ambitieux.",
+      "Vous savez négocier, convaincre et mobiliser des moyens, et vos interlocuteurs vous reconnaissent une vraie compétence.",
+      "Ce nombre peut vous pousser à mesurer la valeur des gens à leurs résultats, ce qui fragilise certaines relations.",
+      "En mettant votre sens stratégique au service d'objectifs partagés, vous gagnez en influence durable et en respect."
+    ],
+    "9": [
+      "Votre nombre d'expression 9 vous donne une vision large et une capacité à parler à des publics très différents.",
+      "Vous savez toucher les cœurs par votre sincérité, et votre message dépasse souvent le cadre de votre situation personnelle.",
+      "Ce nombre demande de ne pas vous épuiser à porter les causes de tous ; choisir quelques engagements vous rend plus efficace.",
+      "Lorsque votre expression s'appuie sur votre propre vécu, elle devient un témoignage inspirant pour ceux qui en ont besoin."
+    ],
+    "11": [
+      "Votre nombre d'expression 11 est un nombre maître qui se traduit par une éloquence inspirée et une intuition fine des émotions d'autrui.",
+      "Vous savez mettre en mots ce que les autres ressentent sans parvenir à l'exprimer, ce qui crée un lien profond avec votre auditoire.",
+      "Ce nombre demande de ne pas vous laisser submerger par la sensibilité des autres ; une parole juste suffit souvent, sans devoir tout porter.",
+      "Votre expression gagne en force lorsqu'elle s'appuie sur des exemples concrets, qui rendent votre inspiration accessible et utile."
+    ],
+    "22": [
+      "Votre nombre d'expression 22 est un nombre maître qui associe vision et capacité d'organisation, pour mener à bien des projets d'envergure.",
+      "Vous savez fédérer une équipe autour d'un objectif commun et transformer une intention collective en réalisation durable.",
+      "Ce nombre peut vous conduire à vouloir tout structurer seul, ce qui crée de la pression autour de vous comme en vous.",
+      "En partageant la conception et la mise en œuvre, vous démultipliez l'impact de vos réalisations."
+    ],
+    "33": [
+      "Votre nombre d'expression 33 est un nombre maître tourné vers l'enseignement, le soin et la transmission par l'exemple.",
+      "Vous avez le don de rendre accessibles des idées profondes, et votre bienveillance laisse une trace chez ceux que vous accompagnez.",
+      "Ce nombre demande de ne pas vous donner au point de vous épuiser ; votre rôle est aussi de vous accorder du soin.",
+      "En choisissant des formes d'enseignement adaptées à vos propres limites, vous touchez davantage de personnes sur la durée."
+    ]
+  },
+  "soul": {
+    "1": [
+      "Votre élan spirituel 1 aspire à l'autonomie et à la maîtrise de votre propre destin, sans dépendre du regard ou de l'approbation des autres.",
+      "Vous ressentez le besoin profond de créer quelque chose qui porte votre empreinte, et de vivre selon vos propres convictions.",
+      "Cette aspiration peut vous rendre impatient face aux contraintes ; apprendre à accepter les étapes lentes vous apaise et vous fait progresser.",
+      "Vers la maturité, votre quête d'indépendance se transforme en confiance tranquille, qui vous permet de vous engager sans vous perdre."
+    ],
+    "2": [
+      "Votre élan spirituel 2 recherche la paix intérieure, l'harmonie et une relation profonde avec ceux qui comptent pour vous.",
+      "Vous ressentez intensément les émotions d'autrui, et la douceur d'un lien sincère vous procure un sentiment d'équilibre.",
+      "Cette sensibilité peut vous rendre vulnérable aux ruptures et aux désaccords ; apprendre à vous protéger sans vous fermer est essentiel.",
+      "Avec le temps, votre besoin de fusion se mue en une capacité à aimer librement, sans craindre la distance ni la différence."
+    ],
+    "3": [
+      "Votre élan spirituel 3 réclame de la couleur, de la joie et des échanges riches, qui nourrissent votre imagination.",
+      "La création artistique ou intellectuelle est pour vous une forme de prière, un moyen d'exprimer ce qui vous dépasse.",
+      "Cette aspiration peut vous faire fuir l'ennui ou la gravité ; il est pourtant utile de savoir rester présent dans les moments difficiles.",
+      "En mûrissant, votre joie se transforme en gratitude, et votre créativité devient un chemin d'élévation partagé avec les autres."
+    ],
+    "4": [
+      "Votre élan spirituel 4 trouve la paix dans la stabilité, l'ordre et la sécurité bien construits autour de vous.",
+      "Vous ressentez le besoin de vous enraciner dans des valeurs claires, qui vous guident dans les choix importants de la vie.",
+      "Cette recherche de sécurité peut vous conduire à rester dans des situations qui ne vous conviennent plus, par peur du changement.",
+      "Avec la maturité, vous découvrez que la véritable stabilité vient d'un ancrage intérieur, qui vous permet de traverser les transitions sereinement."
+    ],
+    "5": [
+      "Votre élan spirituel 5 aspire à la liberté, aux expériences nouvelles et à une transformation continue de votre regard sur la vie.",
+      "Vous vous sentez vivant lorsque vous découvrez de nouveaux lieux, de nouvelles idées ou de nouvelles façons d'être.",
+      "Cette soif de changement peut vous éloigner de vos racines ou de vos engagements ; apprendre à habiter le présent a beaucoup de valeur.",
+      "Vers la maturité, votre quête de liberté devient une ouverture sur le monde, qui vous rend plus tolérant et plus disponible pour les autres."
+    ],
+    "6": [
+      "Votre élan spirituel 6 se réalise dans la protection, le soin et le sentiment d'avoir contribué au bien-être de ceux que vous aimez.",
+      "Vous trouvez un sens profond dans la famille, la communauté et les gestes de générosité discrète.",
+      "Cette aspiration peut vous amener à vouloir sauver tout le monde, ce qui vous coupe parfois de votre propre intériorité.",
+      "En mûrissant, vous trouvez une paix plus durable en acceptant que l'amour véritable n'exige ni sacrifice ni contrôle."
+    ],
+    "7": [
+      "Votre élan spirituel 7 cherche la vérité, le silence intérieur et une compréhension profonde du sens de l'existence.",
+      "La méditation, la lecture, la nature ou la contemplation sont pour vous des espaces où votre âme se ressource.",
+      "Cette quête peut vous isoler du monde ou vous rendre sceptique face aux réponses toutes faites, ce qui peut vous fermer à certaines richesses.",
+      "Avec le temps, votre recherche intérieure devient une source de sagesse, que vous partagez avec sobriété et discernement."
+    ],
+    "8": [
+      "Votre élan spirituel 8 aspire à la réussite tangible et à un impact économique qui dure, au service d'une cause qui a du sens.",
+      "Vous vous sentez accompli lorsque vos efforts produisent des résultats concrets et reconnus par ceux qui vous entourent.",
+      "Cette aspiration peut vous rendre dur envers vous-même lorsque la réussite tarde, ou vous faire oublier la dimension intérieure de votre vie.",
+      "Vers la maturité, vous comprenez que la véritable réussite est celle qui profite aussi aux autres, et qui vous laisse en paix avec vous-même."
+    ],
+    "9": [
+      "Votre élan spirituel 9 vibre pour la fraternité universelle, la compassion et le don de soi, sans attendre de contrepartie.",
+      "Vous ressentez la souffrance du monde avec intensité, et vous cherchez à y apporter une réponse concrète et généreuse.",
+      "Cette ouverture peut vous conduire à vous oublier, ou à vous sentir déçu quand l'humanité ne répond pas à vos attentes.",
+      "En mûrissant, vous acceptez que la générosité la plus juste soit celle qui sait aussi lâcher prise et laisser les choses se transformer."
+    ],
+    "11": [
+      "Votre élan spirituel 11 révèle une âme visionnaire, en quête d'élévation et sensible aux signes et aux inspirations subtiles.",
+      "Vous percevez souvent des vérités que vous ne savez pas encore expliquer, et vous êtes attiré par tout ce qui élargit la conscience.",
+      "Cette sensibilité peut vous plonger dans l'angoisse ou la confusion ; un ancrage quotidien dans le réel, par la routine et le corps, vous aide beaucoup.",
+      "Avec la maturité, votre intuition se stabilise et devient une boussole fiable, que vous pouvez partager avec sobriété et humilité."
+    ],
+    "22": [
+      "Votre élan spirituel 22 rêve grand et veut laisser une œuvre tangible et utile aux générations à venir.",
+      "Vous vous sentez appelé à bâtir quelque chose de durable, qui dépasse vos intérêts personnels et sert une cause collective.",
+      "Cette aspiration peut peser lourd, car le sentiment d'une mission à accomplir peut conduire à l'épuisement ou à la peur de l'échec.",
+      "En mûrissant, vous apprenez que la grande œuvre se construit pierre après pierre, dans la patience et la coopération."
+    ],
+    "33": [
+      "Votre élan spirituel 33 est tourné vers le service, la guérison et un amour qui ne demande rien en retour.",
+      "Vous ressentez un fort besoin de prendre soin des autres, et vous trouvez du sens dans les gestes d'aide et d'accompagnement.",
+      "Cette vocation peut vous faire oublier vos propres besoins et vous placer dans le rôle de celui qui doit toujours soutenir.",
+      "Vers la maturité, votre dévouement gagne en sagesse lorsqu'il s'accompagne de respect pour vos limites et d'une vraie joie de vivre."
+    ]
+  },
+  "intimate": {
+    "1": [
+      "Votre nombre intime 1 se traduit par une présence affirmée, qui inspire le respect et une forme de leadership naturel.",
+      "Vous donnez souvent l'impression de savoir où vous allez, ce qui rassure ceux qui vous entourent dans les moments d'incertitude.",
+      "Cette assurance peut parfois être perçue comme de la froideur ou de la distance ; un mot chaleureux adoucit cette impression.",
+      "Votre force intérieure se révèle pleinement lorsque vous laissez transparaître vos doutes, car cela renforce la confiance de votre entourage."
+    ],
+    "2": [
+      "Votre nombre intime 2 donne une image douce, abordable et chaleureuse, qui met spontanément les gens à l'aise.",
+      "Vous savez écouter sans juger, et beaucoup se confient à vous sans hésiter.",
+      "Cette disponibilité peut vous rendre vulnérable aux demandes des autres ; prendre le temps de dire non protège votre équilibre.",
+      "Votre présence paisible est une ressource précieuse, qui gagne encore en force lorsque vous vous montrez aussi tel que vous êtes."
+    ],
+    "3": [
+      "Votre nombre intime 3 dégage une aura joyeuse, pétillante et élégante, qui attire la sympathie au premier regard.",
+      "Vous avez le sens de l'humour et une manière naturelle de rendre les moments plus légers.",
+      "Cette légèreté peut parfois masquer vos émotions profondes, y compris à vos proches, ce qui rend certaines relations plus superficielles.",
+      "En laissant voir vos sentiments authentiques, vous approfondissez vos liens et votre charme gagne en profondeur."
+    ],
+    "4": [
+      "Votre nombre intime 4 donne une impression de sérieux, de solidité et de professionnalisme qui rassure immédiatement.",
+      "On vous perçoit comme quelqu'un de fiable, et l'on vous confie volontiers des responsabilités importantes.",
+      "Cette retenue peut paraître distante, et votre rigueur peut laisser peu de place à la spontanéité dans vos relations.",
+      "Votre sens du devoir gagne en chaleur lorsque vous associez la fiabilité à des gestes d'attention simples et réguliers."
+    ],
+    "5": [
+      "Votre nombre intime 5 dégage un dynamisme contagieux, du magnétisme et une grande modernité dans l'allure.",
+      "On vous trouve souvent original, vif d'esprit et prêt à découvrir ce qui vient, ce qui attire naturellement de nouvelles connaissances.",
+      "Cette agitation peut donner l'impression d'une personne difficile à suivre, ou peu disponible pour les engagements durables.",
+      "Lorsque vous ancrez votre énergie dans une relation stable, votre magnétisme devient une source de confiance et de joie partagée."
+    ],
+    "6": [
+      "Votre nombre intime 6 projette l'image d'une personne de confiance, protectrice, élégante et attentionnée.",
+      "On se tourne vers vous lorsqu'on a besoin de conseil ou de réconfort, et votre écoute est appréciée.",
+      "Cette disponibilité peut donner l'impression que vous êtes toujours là pour les autres, sans que l'on pense à prendre soin de vous.",
+      "Votre image gagne en authenticité lorsque vous exprimez aussi vos besoins, ce qui permet à votre entourage de vous rendre la pareille."
+    ],
+    "7": [
+      "Votre nombre intime 7 transmet distinction, mystère et profondeur intellectuelle, avec une prestance qui ne passe pas inaperçue.",
+      "Vous paraissez réservé, et ceux qui vous connaissent découvrent une personne riche en réflexions et en nuances.",
+      "Cette réserve peut être interprétée comme de la distance ou de l'indifférence, ce qui peut freiner les liens nouveaux.",
+      "En partageant davantage vos pensées et vos émotions, vous révélez une chaleur qui surprend et qui renforce l'estime de votre entourage."
+    ],
+    "8": [
+      "Votre nombre intime 8 vous donne une présence élégante et maîtrisée, qui impose naturellement le respect.",
+      "On vous reconnaît une autorité calme, et votre tenue comme votre manière de parler inspirent confiance.",
+      "Cette maîtrise peut être perçue comme de la rigidité ou de l'inaccessibilité, surtout par ceux qui ne vous connaissent pas encore.",
+      "Votre image gagne en profondeur lorsque vous laissez aussi transparaître votre humanité et vos moments de vulnérabilité."
+    ],
+    "9": [
+      "Votre nombre intime 9 dégage une bienveillance magnétique, une noblesse d'âme et un charisme qui inspire.",
+      "On vous trouve généreux et ouvert, et votre regard sur les autres met les personnes en confiance.",
+      "Cette ouverture peut donner l'impression que vous vous donnez à tout le monde, ce qui limite parfois la place de votre intimité.",
+      "Votre charisme gagne en force lorsque vous choisissez avec soin les personnes à qui vous offrez le meilleur de vous-même."
+    ],
+    "11": [
+      "Votre nombre intime 11 donne une présence lumineuse et intuitive ; on vous perçoit comme quelqu'un d'inspirant et un peu hors du commun.",
+      "Votre regard perçoit souvent ce qui se joue derrière les mots, et les autres sentent qu'ils peuvent se confier à vous.",
+      "Cette intensité peut parfois être déroutante, et votre sensibilité peut donner l'impression d'une tension intérieure difficile à lire.",
+      "Votre rayonnement gagne en stabilité lorsque vous laissez votre intuition s'exprimer par des gestes simples et concrets."
+    ],
+    "22": [
+      "Votre nombre intime 22 donne une présence solide et ambitieuse ; on vous perçoit comme quelqu'un capable de réaliser de grandes choses.",
+      "Vous inspirez confiance par votre constance et votre sens de l'organisation, et l'on attend beaucoup de vous.",
+      "Cette attente peut peser, car votre entourage projette parfois sur vous plus d'exigence que vous n'en voulez.",
+      "Votre présence rayonne davantage lorsque vous partagez vos projets et vos doutes, plutôt que de les porter seul."
+    ],
+    "33": [
+      "Votre nombre intime 33 donne une présence chaleureuse et rassurante ; on vous perçoit comme une personne généreuse et profondément bienveillante.",
+      "Votre simple présence apaise, et beaucoup se sentent mieux après un échange avec vous.",
+      "Cette image de bienveillance peut conduire les autres à trop attendre de vous, au risque de vous épuiser.",
+      "Votre rayonnement gagne en justesse lorsque vous acceptez de demander du soutien, à votre tour."
+    ]
+  },
+  "personalYear": {
+    "1": [
+      "L'année personnelle 1 ouvre un nouveau cycle de neuf ans : c'est le moment de lancer ce que vous repoussiez, avec initiative et confiance en vous.",
+      "Vous êtes porté par une énergie de départ, idéale pour poser des bases neuves dans votre travail, vos relations ou votre santé.",
+      "Il est important de ne pas tout vouloir faire seul ; choisissez deux ou trois priorités claires pour éviter de vous disperser.",
+      "En fin d'année, vous mesurerez le chemin parcouru : chaque décision prise avec courage aura posé la première pierre de la suite."
+    ],
+    "2": [
+      "L'année personnelle 2 invite à la patience, à la coopération et à la consolidation des liens qui comptent.",
+      "C'est une période propice aux partenariats, aux projets à deux et aux décisions prises en concertation.",
+      "Le rythme est plus lent que d'habitude ; accepter cette lenteur évite les frustrations et permet de mieux préparer la suite.",
+      "Vous récolterez les fruits de votre écoute, à condition de rester attentif à vos propres besoins."
+    ],
+    "3": [
+      "L'année personnelle 3 est tournée vers la créativité, l'expression et les rencontres inspirantes.",
+      "Vos idées circulent facilement, et les occasions de sorties, d'échanges et de découvertes se multiplient.",
+      "Le risque est de disperser votre énergie entre trop de projets ; choisissez ceux qui vous font vraiment vibrer.",
+      "Ce cycle favorise l'expansion sociale : notez les personnes et les opportunités qui se présentent, elles compteront pour la suite."
+    ],
+    "4": [
+      "L'année personnelle 4 demande de l'effort, de la structure et de la rigueur pour construire des fondations durables.",
+      "C'est le moment de mettre de l'ordre dans vos finances, votre organisation et vos engagements.",
+      "Les progrès sont parfois lents et peuvent sembler fastidieux ; chaque tâche accomplie avec méthode compte pour l'avenir.",
+      "En fin de cycle, vous verrez que la régularité a construit quelque chose de solide, sur lequel vous pourrez vous appuyer."
+    ],
+    "5": [
+      "L'année personnelle 5 apporte le changement, le mouvement et des opportunités souvent inattendues.",
+      "Vous pouvez être amené à voyager, à changer d'environnement ou à modifier vos habitudes de vie.",
+      "Cette instabilité peut être source de stress ; garder quelques repères stables vous aidera à profiter de la nouveauté.",
+      "À la fin du cycle, vous aurez gagné en liberté et en expérience, à condition d'avoir su choisir les changements qui vous ressemblent."
+    ],
+    "6": [
+      "L'année personnelle 6 met l'accent sur le foyer, les responsabilités familiales et les choix affectifs structurants.",
+      "Les relations proches occupent une place importante, et vous êtes sollicité pour aider, soutenir ou arbitrer.",
+      "Attention à ne pas vous épuiser à porter les attentes de tous ; vos propres besoins méritent aussi votre attention.",
+      "En fin de cycle, vous constaterez que les engagements pris avec soin ont renforcé vos liens et votre stabilité."
+    ],
+    "7": [
+      "L'année personnelle 7 invite au retrait, à l'étude et à l'introspection, pour prendre du recul sur votre vie.",
+      "C'est une période favorable à l'apprentissage, à la réflexion et aux bilans spirituels ou intellectuels.",
+      "Le risque est de vous isoler ou de vous laisser gagner par le doute ; des moments de partage restent précieux.",
+      "Ce cycle vous prépare à mieux choisir la suite, car les réponses trouvées pendant ces mois guideront vos décisions."
+    ],
+    "8": [
+      "L'année personnelle 8 est tournée vers les résultats concrets, la gestion et les négociations importantes.",
+      "Vos efforts passés peuvent se traduire par une reconnaissance financière ou professionnelle, si vous restez cohérent dans vos choix.",
+      "Le piège est de vous laisser absorber par la performance ; veillez à garder du temps pour vous et vos proches.",
+      "En fin de cycle, vous aurez gagné en autorité et en maîtrise, à condition d'avoir utilisé vos ressources avec justice."
+    ],
+    "9": [
+      "L'année personnelle 9 marque la fin d'un grand cycle : c'est le temps du tri, du bilan et des clôtures nécessaires.",
+      "Certaines relations, activités ou habitudes peuvent arriver à leur terme, et il est utile de les accompagner avec gratitude.",
+      "Lâcher ce qui ne vous sert plus peut être douloureux ; accepter ces départs ouvre la place à ce qui doit naître ensuite.",
+      "Avant le prochain cycle, prenez le temps de vous reposer et de préparer une nouvelle étape avec clarté."
+    ]
+  }
+}
