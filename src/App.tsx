@@ -357,9 +357,11 @@ export default function App() {
       <header className="bg-white/95 backdrop-blur-md border-b border-slate-200/80 sticky top-0 z-40 shadow-2xs">
         <div className="max-w-7xl mx-auto px-3 sm:px-6 py-3 flex items-center justify-between gap-2">
           <div className="flex items-center gap-2 shrink-0">
-            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-2xl bg-gradient-to-br from-purple-600 via-indigo-600 to-purple-800 flex items-center justify-center text-white shadow-md shadow-purple-200">
-              <Sparkles size={18} className="animate-pulse" />
-            </div>
+            <img
+              src="/logo-astraea.png"
+              alt="Logo ASTRAEA"
+              className="w-10 h-10 sm:w-12 sm:h-12 object-contain shrink-0"
+            />
             <div>
               <h1 className="text-lg sm:text-xl font-extrabold bg-gradient-to-r from-purple-800 via-indigo-700 to-purple-900 bg-clip-text text-transparent tracking-tight">
                 ASTRAEA
